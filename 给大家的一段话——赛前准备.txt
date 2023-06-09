@@ -1,0 +1,30 @@
+赛前准备篇：
+大家在开始比赛前可以花两三天时间学习一下以下基础知识，花两三天时间去学这会节省后面大量的调错时间。
+1、关于Shell编程    2020全新shell脚本从入门到精通实战教程：https://www.bilibili.com/video/BV1j541157Sr?p=4
+2、linux FHS文件系统（了解就行）  https://www.cnblogs.com/ysuwangqiang/p/11341323.html
+3、静态库与动态库   https://www.bilibili.com/video/BV1xt4y1S7EH?spm_id_from=333.999.0.0
+4、linux环境变量：PATH和LD_LIBRARY_PATH环境变量
+5、vim的编辑技巧，如快速移动光标、复制粘贴，以行、列为单位修改
+
+经验贴：
+2016亚洲超算比赛经验贴  https://www.cnblogs.com/kinsang/p/6838933.html
+ASC18世界大学生超算竞赛题目分析以及思路总结 https://blog.csdn.net/baoLidanyang/article/details/79868593?utm_source=app&app_version=4.15.0&code=app_1562916241&uLinkId=usr1mkqgl919blen
+
+小插件：
+1、浏览器git加速插件（火狐、谷歌都有，主要用于访问国外服务器的git时网速慢的问题，不下载插件也可以，只需要将其中的"github.com"替换为“github.com.cnpmjs.org”速度会大幅提升）
+2、浏览器翻译插件（用于阅读英文用）
+
+查看服务器性能：
+命令lscpu   https://blog.csdn.net/chenghuikai/article/details/72832016?spm=1001.2101.3001.6650.1&utm_medium=distribute.pc_relevant.none-task-blog-2%7Edefault%7ECTRLIST%7Edefault-1.highlightwordscore&depth_1-utm_source=distribute.pc_relevant.none-task-blog-2%7Edefault%7ECTRLIST%7Edefault-1.highlightwordscore
+
+
+
+
+以上是短期内就能快速掌握的，以下是往后能慢慢学的：
+超良心0基础cuda视频（从来没见过这么好的教程）   https://www.bilibili.com/video/BV1Sq4y1K7K6?spm_id_from=333.999.0.0
+人工智能新手环境搭建指南
+anaconda+pytorch+pycharmhttps://www.bilibili.com/video/BV1Kp4y147Rw?p=1&share_medium=android&share_plat=android&share_session_id=f305d81a-4706-4af1-8a98-684790966d39&share_source=QQ&share_tag=s_i&timestamp=1636638442&unique_k=f6NfiE
+
+《鸟哥的linux私房菜》网页版
+http://linux.vbird.org/linux_basic/
+
